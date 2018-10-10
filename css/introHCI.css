@@ -16,6 +16,16 @@ body {
      padding: 20px;
 }
 
+.project {
+     margin-left: 20px;
+}
+
+/* find project class, then in project class, find all p elements */
+/* .project = project class, #project = project id */
+.project p {
+     font-variant: small-caps;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
